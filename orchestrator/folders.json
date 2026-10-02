@@ -1,0 +1,14 @@
+[
+  {
+    "name": "DEV",
+    "description": "Development environment"
+  },
+  {
+    "name": "TEST",
+    "description": "Testing environment"
+  },
+  {
+    "name": "PROD",
+    "description": "Production environment"
+  }
+]

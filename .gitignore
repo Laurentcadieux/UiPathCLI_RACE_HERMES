@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.secret
+credentials.json
+uip-token.json
+
+# UiPath build artifacts
+*.nupkg
+bin/
+obj/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
